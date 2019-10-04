@@ -1,5 +1,3 @@
-# we gonna do collect ya'll
-
 require 'pry'
 
 def hello(array)
@@ -16,3 +14,12 @@ binding.pry
 
 
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+  
+  
+  
+  
+  
+  
+  
+  
+  
